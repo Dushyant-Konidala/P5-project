@@ -22,3 +22,6 @@ rect(390,75,20,300);
 rect(40,75,20,300);
 rect(75,40,300,20);
 }
+function take_snapshot(){
+    save("image");
+}
